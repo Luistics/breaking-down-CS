@@ -1,2 +1,2 @@
 # breaking-down-CS
-Methods and their stepwise descriptions I use to tutor Computer Science 101 for fresh CS students. 
+A storage space for methods and their step-wise descriptions I offer to tutor basics of Computer Science and Programming
